@@ -7,7 +7,7 @@
         "image": "https://example.com/inception.jpg",
         "imb_star": 8.8,
         "genre": "Science Fiction",
-        "iframe": "<iframe src="//vidmoly.to/embed-ut1cw9lfiwww.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>"
+        "iframe": "<iframe src='//vidmoly.to/embed-ut1cw9lfiwww.html'></iframe>"
       },
       {
         "id": 2,
