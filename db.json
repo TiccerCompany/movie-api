@@ -1,0 +1,60 @@
+{
+    "movie": [
+      {
+        "id": 1,
+        "name": "Inception",
+        "description": "A skilled thief leads a team to perform inception in a dream.",
+        "image": "https://example.com/inception.jpg",
+        "imb_star": 8.8,
+        "genre": "Science Fiction",
+        "iframe": "<iframe src="//vidmoly.to/embed-ut1cw9lfiwww.html" scrolling="no" frameborder="0" width="640" height="360" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>"
+      },
+      {
+        "id": 2,
+        "name": "The Dark Knight",
+        "description": "Batman faces the Joker in Gotham City.",
+        "image": "https://example.com/darkknight.jpg",
+        "imb_star": 9.0,
+        "genre": "Action",
+        "iframe": "<iframe src='https://example.com/darkknight'></iframe>"
+      },
+      {
+        "id": 3,
+        "name": "Tyx",
+        "description": "sa City.",
+        "image": "https://example.com/darkknight.jpg",
+        "imb_star": 9.0,
+        "genre": "Action",
+        "iframe": "<iframe src='https://example.com/darkknight'></iframe>"
+      }
+    ],
+    "series": [
+      {
+        "id": 1,
+        "name": "Breaking Bad",
+        "description": "A chemistry teacher turns into a drug lord.",
+        "image": "https://example.com/breakingbad.jpg",
+        "imb_star": 9.5,
+        "genre": "Crime, Drama",
+        "sezon_1": [
+          { "1": "<iframe src='https://example.com/episode1'></iframe>" },
+          { "2": "<iframe src='https://example.com/episode2'></iframe>" },
+          { "3": "<iframe src='https://example.com/episode3'></iframe>" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Stranger Things",
+        "description": "A group of kids uncover supernatural mysteries in their town.",
+        "image": "https://example.com/strangerthings.jpg",
+        "imb_star": 8.7,
+        "genre": "Science Fiction, Horror",
+        "sezon_1": [
+          { "1": "<iframe src='https://example.com/episode1'></iframe>" },
+          { "2": "<iframe src='https://example.com/episode2'></iframe>" },
+          { "3": "<iframe src='https://example.com/episode3'></iframe>" }
+        ]
+      }
+    ]
+  }
+  
